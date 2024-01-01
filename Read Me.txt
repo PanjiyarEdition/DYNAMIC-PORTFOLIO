@@ -1,0 +1,6 @@
+Database name - 
+	personal_portfolio
+
+For login Admin part
+	username2 : jigar@gmail.com
+	password:  12345 
